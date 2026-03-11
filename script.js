@@ -3,7 +3,7 @@
 
     // 2. Grab references to all moles
     const moles = document.getElementsByClassName("moles");
-
+ 
     // 3. Function to show one random mole at a time
     function showRandomMole() {
       // Hide all moles first
